@@ -1,6 +1,6 @@
-AUTHOR = 'Raja CSP Raman'
-SITENAME = 'RajaCSP'
-SITETITLE = 'RajaCSP'
+AUTHOR = 'Nehal Yohan Ranjith'
+SITENAME = 'Nehal Yohan Ranjith'
+SITETITLE = 'Nehal Yohan Ranjith'
 SITEURL = ""
 PATH = "content"
 TIMEZONE = 'America/Moncton'
@@ -12,7 +12,7 @@ DISABLE_URL_HASH = True
 
 # Copyright
 COPYRIGHT_YEAR = 2026
-COPYRIGHT_NAME = 'Raja CSP Raman'
+COPYRIGHT_NAME = 'Nehal Yohan Ranjith'
 
 # Dark mode support
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
@@ -24,7 +24,7 @@ PYGMENTS_STYLE_DARK = 'native'  # Dark mode
 
 # Static files
 STATIC_PATHS = ['images']
-SITELOGO = '/images/csp.jpeg'
+SITELOGO = '/images/nehal.jpg'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -45,8 +45,8 @@ MENUITEMS = (
 
 # Social widget
 SOCIAL = (
-    ("github", "https://github.com/rajacsp"),
-    ("linkedin", "https://www.linkedin.com/in/raja-csp-raman/"),
+    ("github", "https://github.com/nehalyohanranjith"),
+    # ("linkedin", "https://www.linkedin.com/in/raja-csp-raman/"),
     ("substack", "https://articlevil.substack.com/"),
     ("python", "https://rajacsp.github.io/mlnotes/"),
 )
